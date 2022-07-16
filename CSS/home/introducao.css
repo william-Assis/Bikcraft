@@ -4,11 +4,6 @@
 }
 
 .introducao{
-  padding: 0 1.25rem;
-  box-sizing: border-box;
-  max-width: 75rem;
-  margin-right: auto;
-  margin-left: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2.5rem;
